@@ -25,17 +25,52 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="303.57143"
-     inkscape:cy="520"
+     inkscape:zoom="0.7"
+     inkscape:cx="396.21831"
+     inkscape:cy="439.1878"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="804"
-     inkscape:window-height="621"
+     inkscape:window-width="1265"
+     inkscape:window-height="705"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="854.28572,601.42858"
+       orientation="0,1"
+       id="guide4167" />
+    <sodipodi:guide
+       position="410,627.14287"
+       orientation="1,0"
+       id="guide4169" />
+    <sodipodi:guide
+       position="689.93419,750.54336"
+       orientation="0,1"
+       id="guide4171" />
+    <sodipodi:guide
+       position="880.00001,321.42858"
+       orientation="0,1"
+       id="guide4173" />
+    <sodipodi:guide
+       position="622.25397,868.73121"
+       orientation="0,1"
+       id="guide4175" />
+    <sodipodi:guide
+       position="435.37575,204.05082"
+       orientation="0,1"
+       id="guide4177" />
+    <sodipodi:guide
+       position="657.85715,377.85715"
+       orientation="1,0"
+       id="guide4179" />
+    <sodipodi:guide
+       position="158.57143,798.57145"
+       orientation="1,0"
+       id="guide4181" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,19 +87,42 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <ellipse
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#3b3b3b;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+    <circle
+       style="opacity:1;fill:#6918b7;fill-opacity:0.53205124;stroke:none;stroke-width:2.38244557;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4136"
-       cx="321.42856"
-       cy="360.93362"
-       rx="170"
-       ry="168.57143" />
+       cx="417.50729"
+       cy="351.57727"
+       r="201.31667" />
     <ellipse
-       ry="168.57143"
-       rx="170"
-       cy="548.64789"
-       cx="264.28571"
+       ry="199.63474"
+       rx="201.32657"
+       cy="711.00769"
+       cx="418.18091"
        id="ellipse4138"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#3b3b3b;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#6918b7;fill-opacity:0.53205124;stroke:none;stroke-width:2.38244557;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="158.61443"
+       cy="422.65433"
+       cx="532.29822"
+       id="circle4161"
+       style="opacity:1;fill:#6918b7;fill-opacity:0.53205127;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#6918b7;fill-opacity:0.53205127;stroke:none;stroke-width:2.40069389;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4163"
+       cx="516.86566"
+       cy="591.49658"
+       r="140.08537" />
+    <circle
+       r="140.08537"
+       cy="591.78229"
+       cx="304.29422"
+       id="circle4165"
+       style="opacity:1;fill:#6918b7;fill-opacity:0.53205127;stroke:none;stroke-width:2.40069389;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#6918b7;fill-opacity:0.53205127;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4183"
+       cx="287.84131"
+       cy="424.67465"
+       r="158.61443" />
   </g>
 </svg>
