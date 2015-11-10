@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="concept1.svg">
+   sodipodi:docname="concept1-02.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,14 +25,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="326.64605"
-     inkscape:cy="485.93177"
+     inkscape:zoom="0.7"
+     inkscape:cx="406.44811"
+     inkscape:cy="640.62359"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1265"
-     inkscape:window-height="705"
+     inkscape:window-width="996"
+     inkscape:window-height="638"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -100,7 +100,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssss" />
     <path
-       style="opacity:1;fill:#6918b7;fill-opacity:0.53205124;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#189cb7;fill-opacity:0.53205127;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 690.91264,422.65433 c -10e-6,75.51729 -52.77472,138.70838 -123.45485,154.70397 -11.30907,2.55935 -23.07654,3.91045 -35.15957,3.91045 -87.60033,1e-5 -158.61443,-71.01409 -158.61443,-158.61442 0,-37.64959 13.11757,-72.2354 35.03172,-99.43644 29.0741,-36.08836 73.63197,-59.17799 123.58271,-59.17799 87.60033,0 158.61443,71.0141 158.61442,158.61443 z"
        id="circle4161"
        inkscape:connector-curvature="0"
@@ -118,7 +118,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssss" />
     <path
-       style="opacity:1;fill:#6918b7;fill-opacity:0.53205124;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#aa18b7;fill-opacity:0.53205127;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 409.86374,323.33187 c 22.85032,27.48272 36.59199,62.80798 36.59199,101.34278 10e-6,87.60033 -71.01409,158.61443 -158.61442,158.61443 -7.54824,0 -14.97334,-0.52726 -22.24047,-1.54696 m 0,0 C 188.53012,570.92781 129.22688,504.72674 129.22688,424.67465 c 0,-87.60033 71.0141,-158.61443 158.61443,-158.61442 49.06552,0 92.92762,22.2785 122.02243,57.27164"
        id="circle4183"
        inkscape:connector-curvature="0"
@@ -159,5 +159,58 @@
        id="path4222"
        d="m 264.64388,581.86988 c 36.92909,-43.12893 92.0099,-70.49692 153.53703,-70.49692 59.27907,0 112.57429,25.40461 149.417,65.83313"
        style="opacity:1;fill:none;fill-opacity:0.53205124;stroke:#470280;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:calibri;-inkscape-font-specification:calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-341.34146"
+       y="649.16779"
+       id="text4162"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4164"
+         x="-341.34146"
+         y="649.16779"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Candela;-inkscape-font-specification:Candela">Nutritional High</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4166"
+       y="724.18158"
+       x="-362.55469"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:calibri;-inkscape-font-specification:calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:45px;font-family:Matiz;-inkscape-font-specification:'Matiz Heavy'"
+         y="724.18158"
+         x="-362.55469"
+         id="tspan4168"
+         sodipodi:role="line">Nutritional High</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:calibri;-inkscape-font-specification:calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-367.49158"
+       y="811.57458"
+       id="text4170"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4172"
+         x="-367.49158"
+         y="811.57458"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;font-family:Rockwell;-inkscape-font-specification:'Rockwell Bold'">Nutritional High</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4174"
+       y="896.08075"
+       x="-361.95062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:calibri;-inkscape-font-specification:calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50px;font-family:'Adobe Hebrew';-inkscape-font-specification:'Adobe Hebrew Semi-Bold'"
+         y="896.08075"
+         x="-361.95062"
+         id="tspan4176"
+         sodipodi:role="line">Nutritional High</tspan></text>
   </g>
 </svg>
