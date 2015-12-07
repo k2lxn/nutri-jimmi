@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="438.25073mm"
+   height="349.633mm"
+   viewBox="0 0 1552.857 1238.8571"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -25,48 +25,28 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="95.119962"
-     inkscape:cy="575.56047"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="523.35886"
+     inkscape:cy="578.35123"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1403"
-     inkscape:window-height="759"
-     inkscape:window-x="19"
-     inkscape:window-y="2"
+     inkscape:window-width="1203"
+     inkscape:window-height="693"
+     inkscape:window-x="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:snap-global="false">
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <sodipodi:guide
-       position="396.98995,731.35046"
-       orientation="0,1"
-       id="guide4160" />
-    <sodipodi:guide
-       position="369.71583,828.3251"
+       position="776.30261,485.28498"
        orientation="1,0"
-       id="guide4185" />
-    <sodipodi:guide
-       position="370.72599,600.03062"
-       orientation="0,1"
-       id="guide4191" />
-    <sodipodi:guide
-       position="359.61431,870.75151"
-       orientation="1,0"
-       id="guide4193" />
-    <sodipodi:guide
-       position="380.82751,824.28449"
-       orientation="1,0"
-       id="guide4195" />
-    <sodipodi:guide
-       position="531.34024,657.60932"
-       orientation="0,1"
-       id="guide4197" />
-    <sodipodi:guide
-       position="554.57375,541.44178"
-       orientation="0,1"
-       id="guide4199" />
+       id="guide4254" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -84,52 +64,50 @@
      inkscape:label="reference shapes"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(398.28592,325.49491)">
     <ellipse
-       style="opacity:1;fill:#6918b7;fill-opacity:0.53333285;stroke:#3f0d85;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#6918b7;fill-opacity:0.53333285;stroke:#3f0d85;stroke-width:2.10923004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4203"
-       cx="373.85703"
-       cy="163.79077"
-       rx="330"
-       ry="345.71429" />
+       cx="379.59668"
+       cy="21.219341"
+       rx="367.08823"
+       ry="345.6597" />
     <ellipse
-       ry="378.57144"
-       rx="575.71429"
-       cy="536.28638"
-       cx="871.13788"
-       id="ellipse4205"
-       style="opacity:1;fill:#6918b7;fill-opacity:0.53333288;stroke:#3f0d85;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.97493981,0.22246881,-0.22246881,0.97493981,0,0)" />
+       style="opacity:1;fill:#189cb7;fill-opacity:0.53333285;stroke:#3f0d85;stroke-width:4.16354179;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4240"
+       cx="669.38245"
+       cy="165.69394"
+       rx="368.41827"
+       ry="371.41827" />
     <ellipse
-       transform="matrix(-0.97493981,0.22246881,0.22246881,0.97493981,0,0)"
-       style="opacity:1;fill:#6918b7;fill-opacity:0.53333285;stroke:#3f0d85;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="ellipse4212"
-       cx="142.16168"
-       cy="702.62946"
-       rx="575.71429"
-       ry="378.57144" />
+       cy="165.69391"
+       cx="89.382439"
+       id="circle4242"
+       style="opacity:1;fill:#aa18b7;fill-opacity:0.53333285;stroke:#3f0d85;stroke-width:4.16354227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="368.41827"
+       ry="371.41827" />
     <ellipse
-       style="opacity:1;fill:#aa18b7;fill-opacity:0.53333336;stroke:#3f0d85;stroke-width:2.23496175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4216"
-       cx="136.9109"
-       cy="116.94894"
-       rx="497.63708"
-       ry="315.00601"
-       transform="matrix(0.74759198,0.66415829,-0.6736449,0.73905517,0,0)" />
+       style="opacity:1;fill:#6918b7;fill-opacity:0.53333285;stroke:#3f0d85;stroke-width:2.39562249;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse4248"
+       cx="80.999756"
+       cy="569.79077"
+       rx="478.08786"
+       ry="342.37363" />
     <ellipse
-       transform="matrix(-0.74759198,0.66415829,0.6736449,0.73905517,0,0)"
-       ry="315.00601"
-       rx="497.63708"
-       cy="605.05017"
-       cx="-406.23331"
-       id="ellipse4219"
-       style="opacity:1;fill:#189cb7;fill-opacity:0.53333336;stroke:#3f0d85;stroke-width:2.23509101;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       ry="342.37363"
+       rx="478.08786"
+       cy="569.79077"
+       cx="675.28552"
+       id="ellipse4250"
+       style="opacity:1;fill:#6918b7;fill-opacity:0.53333285;stroke:#3f0d85;stroke-width:2.39562249;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="reference lines"
-     style="display:none">
+     style="display:none"
+     transform="translate(398.28592,325.49491)">
     <path
        inkscape:connector-curvature="0"
        id="path4150"
@@ -140,5 +118,6 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="lines take 2" />
+     inkscape:label="lines take 2"
+     transform="translate(398.28592,325.49491)" />
 </svg>
