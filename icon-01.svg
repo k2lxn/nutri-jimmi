@@ -10,14 +10,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="171.79189mm"
-   height="178.91356mm"
-   viewBox="0 0 608.7114 633.94563"
+   width="171.79187mm"
+   height="137.86096mm"
+   viewBox="0 0 608.71135 488.48368"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="concept1-03.svg"
-   inkscape:export-filename="/Users/janereynolds/Desktop/nutr_traditions_line.png"
+   sodipodi:docname="icon-01.svg"
+   inkscape:export-filename="/Users/janereynolds/Desktop/nutr_trad_line.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -86,7 +86,7 @@
        y2="654.6394"
        gradientUnits="userSpaceOnUse" />
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter4801">
       <feFlood
@@ -126,10 +126,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="277.13076"
-     inkscape:cy="112.6527"
+     inkscape:cx="304.40487"
+     inkscape:cy="112.65274"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1220"
      inkscape:window-height="688"
@@ -143,35 +143,35 @@
      fit-margin-right="0"
      fit-margin-bottom="0">
     <sodipodi:guide
-       position="744.96833,323.96901"
+       position="744.96834,323.96904"
        orientation="0,1"
        id="guide4167" />
     <sodipodi:guide
-       position="300.68263,349.6833"
+       position="300.68263,349.68333"
        orientation="1,0"
        id="guide4169" />
     <sodipodi:guide
-       position="580.61681,473.08378"
+       position="580.61681,473.08381"
        orientation="0,1"
        id="guide4171" />
     <sodipodi:guide
-       position="770.68262,43.969032"
+       position="770.68263,43.969072"
        orientation="0,1"
        id="guide4173" />
     <sodipodi:guide
-       position="512.93659,591.27161"
+       position="512.93659,591.27163"
        orientation="0,1"
        id="guide4175" />
     <sodipodi:guide
-       position="326.05838,-73.408716"
+       position="326.05838,-73.408672"
        orientation="0,1"
        id="guide4177" />
     <sodipodi:guide
-       position="548.53977,100.3976"
+       position="548.53977,100.39764"
        orientation="1,0"
        id="guide4179" />
     <sodipodi:guide
-       position="49.254078,521.11186"
+       position="49.254071,521.11188"
        orientation="1,0"
        id="guide4181" />
   </sodipodi:namedview>
@@ -191,21 +191,21 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="bg"
-     transform="translate(-109.31735,-140.95702)">
+     transform="translate(-109.31736,-286.419)">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:0.97916669;stroke:#000000;stroke-width:0.920609;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.97916667;stroke:#000000;stroke-width:0.80811;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5363"
-       width="607.79077"
-       height="633.02509"
-       x="109.77766"
-       y="141.41731" />
+       width="607.90326"
+       height="487.67563"
+       x="109.72141"
+       y="286.82303" />
   </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:none"
-     transform="translate(-109.31735,-140.95702)">
+     transform="translate(-109.31736,-286.419)">
     <path
        style="opacity:1;fill:#6918b7;fill-opacity:0.53205124;stroke:none;stroke-width:2.38244557;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 618.82396,351.57727 c 0,43.35944 -13.70766,83.51728 -37.02584,116.37639 -36.47529,51.39962 -96.46614,84.94028 -164.29083,84.94028 -69.80775,0 -131.31687,-35.53067 -167.42952,-89.49417 -21.40466,-31.98519 -33.88714,-70.44613 -33.88714,-111.8225 0,-111.18412 90.13254,-201.31666 201.31666,-201.31667 111.18413,0 201.31667,90.13254 201.31667,201.31667 z"
@@ -247,8 +247,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="faded circles"
-     style="display:inline"
-     transform="translate(-109.31735,-140.95702)">
+     style="display:none"
+     transform="translate(-109.31736,-286.419)">
     <path
        sodipodi:nodetypes="sssssss"
        inkscape:connector-curvature="0"
@@ -272,13 +272,13 @@
        inkscape:connector-curvature="0"
        id="path5345"
        d="m 656.95103,591.49658 c 0,77.36701 -62.71836,140.08537 -140.08537,140.08537 -77.36701,0 -140.08537,-62.71836 -140.08537,-140.08537 0,-14.62916 2.24244,-28.73456 6.40235,-41.99123 17.83995,-56.85189 70.94516,-98.09414 133.68302,-98.09414 23.47333,0 45.5982,5.77341 65.03208,15.97768 44.61931,23.42855 75.05329,70.214 75.05329,124.10769 z"
-       style="display:inline;opacity:1;fill:none;fill-opacity:0.53333321;stroke:url(#linearGradient4765);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;opacity:1;fill:none;fill-opacity:0.53333291;stroke:url(#linearGradient4765);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="sssssss"
        inkscape:connector-curvature="0"
        id="path5347"
        d="m 444.37959,591.78229 c -1e-5,77.36701 -62.71836,140.08537 -140.08537,140.08537 -77.36701,0 -140.08536,-62.71836 -140.08537,-140.08537 0,-58.03865 35.29535,-107.83362 85.59261,-129.09149 16.75029,-7.07942 35.16439,-10.99389 54.49276,-10.99389 63.44133,0 117.03279,42.17233 134.2698,100.01242 3.78361,12.69618 5.81557,26.14728 5.81557,40.07296 z"
-       style="display:inline;opacity:1;fill:none;fill-opacity:0.53333321;stroke:url(#linearGradient4773);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;opacity:1;fill:none;fill-opacity:0.53333291;stroke:url(#linearGradient4773);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cssccssc"
        inkscape:connector-curvature="0"
@@ -290,7 +290,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="lines"
-     transform="translate(-109.31735,-140.95702)">
+     transform="translate(-109.31736,-286.419)">
     <g
        id="g5330"
        style="stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">
@@ -336,7 +336,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="text"
-     transform="translate(-109.31735,-140.95702)">
+     transform="translate(-109.31736,-286.419)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:99.00000095%;font-family:calibri;-inkscape-font-specification:calibri;letter-spacing:0px;word-spacing:0px;fill:#2f2933;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -359,15 +359,15 @@
        id="text5365"
        y="653.91394"
        x="418.42673"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:104.99999523%;font-family:calibri;-inkscape-font-specification:calibri;letter-spacing:0px;word-spacing:0px;fill:#d4ced8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:104.99999523%;font-family:calibri;-inkscape-font-specification:calibri;letter-spacing:0px;word-spacing:0px;fill:#d4ced8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75px;line-height:104.99999523%;font-family:Rockwell;-inkscape-font-specification:'Rockwell Bold';text-align:center;text-anchor:middle;fill:#d4ced8;fill-opacity:1"
          y="653.91394"
-         x="425.92673"
+         x="427.80173"
          id="tspan5367"
          sodipodi:role="line">Nutritional </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75px;line-height:104.99999523%;font-family:Rockwell;-inkscape-font-specification:'Rockwell Bold';text-align:center;text-anchor:middle;fill:#d4ced8;fill-opacity:1"
-         y="716.91394"
+         y="732.66394"
          x="418.42673"
          sodipodi:role="line"
          id="tspan5373">Traditions</tspan></text>
@@ -380,13 +380,13 @@
        sodipodi:linespacing="105%"><tspan
          sodipodi:role="line"
          id="tspan4777"
-         x="425.51846"
+         x="427.39346"
          y="653.77112"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75px;line-height:104.99999523%;font-family:Rockwell;-inkscape-font-specification:'Rockwell Bold';text-align:center;text-anchor:middle;fill:#2f2933;fill-opacity:0.97916667">Nutritional </tspan><tspan
          id="tspan4779"
          sodipodi:role="line"
          x="418.01846"
-         y="716.77112"
+         y="732.52112"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:75px;line-height:104.99999523%;font-family:Rockwell;-inkscape-font-specification:'Rockwell Bold';text-align:center;text-anchor:middle;fill:#2f2933;fill-opacity:0.97916667">Traditions</tspan></text>
   </g>
 </svg>
