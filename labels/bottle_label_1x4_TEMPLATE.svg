@@ -318,18 +318,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="401.21429"
-     inkscape:cy="-1.3346688"
+     inkscape:zoom="4.0574366"
+     inkscape:cx="56.417153"
+     inkscape:cy="52.760096"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1101"
-     inkscape:window-height="671"
+     inkscape:window-width="988"
+     inkscape:window-height="669"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -341,16 +341,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="reference">
+     inkscape:label="reference"
+     sodipodi:insensitive="true"
+     style="display:none">
     <g
-       transform="matrix(1.25,0,0,-1.25,-182.69333,893.48382)"
+       transform="matrix(1.25,0,0,-1.25,-184.1219,877.76953)"
        inkscape:label="CBD ML#39896-A Silver(1)"
        id="g4204">
       <g
@@ -14678,15 +14680,235 @@
      inkscape:label="bg"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(700.5,-209.00507)">
+     transform="translate(700.5,-209.00507)"
+     sodipodi:insensitive="true">
     <rect
-       style="opacity:1;fill:#e09292;fill-opacity:0.37579621;stroke:#6b6b6b;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#e09292;fill-opacity:0.37579621;stroke:#6b6b6b;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4136"
        width="405"
        height="90"
-       x="-700"
-       y="209.50507"
+       x="-700.50507"
+       y="208.36864"
        rx="1.404"
        ry="1.404" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Supplement Facts"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#99d9a4;fill-opacity:0.43312103;stroke:#000000;stroke-width:0.98498684;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect13877"
+       width="110.72559"
+       height="77.240814"
+       x="9.2352657"
+       y="5.771749" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Supp. Facts text">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:calibri;-inkscape-font-specification:calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="128.01276"
+       y="-64.78125"
+       id="text14233"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="128.01276"
+         y="-64.78125"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Italic'"
+         id="tspan14237">† These statements have not been evaluated by the FDA and are not </tspan><tspan
+         sodipodi:role="line"
+         x="128.01276"
+         y="-60.093746"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Italic'"
+         id="tspan14241">intended to diagnose, treat or cure any disease. Always check with </tspan><tspan
+         sodipodi:role="line"
+         x="128.01276"
+         y="-55.406246"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Italic'"
+         id="tspan14243"> your physician before starting any new dietary supplement program.</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text14247"
+       y="10.469291"
+       x="9.7501965"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.375px;line-height:100%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Italic Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan14249"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.375px;line-height:100%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Italic Condensed';text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start"
+         y="10.469291"
+         x="9.7501965"
+         sodipodi:role="line">† These statements have not been evaluated by the FDA and are not </tspan><tspan
+         id="tspan14251"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.375px;line-height:100%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Italic Condensed';text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start"
+         y="14.844291"
+         x="9.7501965"
+         sodipodi:role="line"
+         dx="-0.1 0 0.1 0 0 0 0 0 0 0 0 0.14 0 0.1 0 -0.14 0 0 0 0 0 -0.1"> intended<tspan
+   style="letter-spacing:0.02px"
+   id="tspan14297"> t</tspan>o <tspan
+   style="letter-spacing:0.03px"
+   id="tspan14303">diagnose</tspan>, treat, or cure any <tspan
+   style="letter-spacing:0.09px"
+   id="tspan14313">disease</tspan>. Always check with </tspan><tspan
+         id="tspan14253"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.375px;line-height:100%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Italic Condensed';text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start"
+         y="19.21929"
+         x="9.7501965"
+         sodipodi:role="line"
+         dx="0 9.3132257e-09"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.375px;line-height:100%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Italic Condensed';text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start"
+   id="tspan14287"
+   dx="0.5">y</tspan>our <tspan
+   style="letter-spacing:0.02px"
+   id="tspan14347">physician</tspan> before starting any new <tspan
+   style="letter-spacing:0.02px"
+   id="tspan14353">dietary</tspan> supplement program.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="17.771837"
+       y="30.742371"
+       id="text14257"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14259"
+         x="17.771837"
+         y="30.742371"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Supplement Facts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.375px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Italic Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="128.29044"
+       y="-84.49688"
+       id="text14261"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="128.29044"
+         y="-84.49688"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.375px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Italic Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan14263">† <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic'"
+   id="tspan14269">These statements have not been evaluated by the FDA and are not </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="128.29044"
+         y="-79.80938"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan14265">intended to diagnose, treat or cure any disease. Always check with </tspan><tspan
+         sodipodi:role="line"
+         x="128.29044"
+         y="-74.272568"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.375px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Italic Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan14267"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Italic'"
+   id="tspan14271"> your physician before starting any new dietary supplement program</tspan>.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="5.2760215"
+       y="-68.113464"
+       id="text14279"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="5.2760215"
+         y="-68.113464"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan14281">† These statements have not been evaluated by the FDA and are not </tspan><tspan
+         sodipodi:role="line"
+         x="5.2760215"
+         y="-63.425968"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan14283">intended to diagnose, treat or cure any disease. Always check with </tspan><tspan
+         sodipodi:role="line"
+         x="5.2760215"
+         y="-58.738468"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan14285"> your physician before starting any new dietary supplement program.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.645699"
+       y="38.271091"
+       id="text14359"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14361"
+         x="10.645699"
+         y="38.271091"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start">Serving size 1 gel cap</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="68.2826"
+       y="38.144527"
+       id="text14363"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14367"
+         x="68.2826"
+         y="38.144527">Servings Per Container 30</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="79.120514"
+       y="43.741776"
+       id="text14369"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14373"
+         x="79.120514"
+         y="43.741776">Amount Per Serving</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.805005"
+       y="49.871273"
+       id="text14375"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14377"
+         x="10.805005"
+         y="49.871273">Avocado Oil</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="100.73052"
+       y="50.015652"
+       id="text14379"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14381"
+         x="100.73052"
+         y="50.015652">250 mg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.456456"
+       y="56.145145"
+       id="text14383"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14385"
+         x="10.456456"
+         y="56.145145">CBD (cannabidiol)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="105.1632"
+       y="56.268375"
+       id="text14387"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14391"
+         x="105.1632"
+         y="56.268375">5 mg</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Suggested Use" />
 </svg>
