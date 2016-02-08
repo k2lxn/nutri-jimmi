@@ -16,7 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="front_draft0.svg">
+   sodipodi:docname="front_draft0.svg"
+   inkscape:export-filename="/Users/janereynolds/Desktop/front-draft0.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -510,19 +513,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70000002"
-     inkscape:cx="129.09879"
+     inkscape:cx="71.955934"
      inkscape:cy="102.08223"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="993"
-     inkscape:window-height="682"
-     inkscape:window-x="18"
-     inkscape:window-y="13"
+     inkscape:window-width="1111"
+     inkscape:window-height="692"
+     inkscape:window-x="107"
+     inkscape:window-y="44"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -532,7 +535,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1026,7 +1029,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(222.64135,-798.53438)"
-     style="display:none">
+     style="display:inline">
     <g
        transform="matrix(1.3957976,0,0,-1.3957976,-828.23441,1158.0765)"
        inkscape:label="push caps front"
@@ -1049,7 +1052,7 @@
       </g>
     </g>
     <rect
-       style="opacity:1;fill:#dcdcd2;fill-opacity:0.76470588;stroke:#dcdcd2;stroke-width:0.1775687;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.76470588"
+       style="opacity:1;fill:#f2f2ef;fill-opacity:1;stroke:#dcdcd2;stroke-width:0.1775687;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.76470588"
        id="rect4266"
        width="359.82242"
        height="359.82242"
@@ -1136,7 +1139,7 @@
      transform="translate(0.4984937,-1640.4579)">
     <g
        id="g8461"
-       transform="matrix(0.19369346,0,0,0.19369346,63.189042,1303.1108)">
+       transform="matrix(0.28582697,0,0,0.28582697,66.158075,1031.1464)">
       <path
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
@@ -1211,21 +1214,21 @@
      transform="translate(0.4984937,-1640.4579)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.16620636px;line-height:98.00000191%;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#606060;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="15.158768"
-       y="1698.5358"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.41807556px;line-height:98.00000191%;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#606060;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="8.1230459"
+       y="1743.016"
        id="text8689"
        sodipodi:linespacing="98.000002%"><tspan
          sodipodi:role="line"
-         x="15.158768"
-         y="1698.5358"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.16620636px;line-height:98.00000191%;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#606060;fill-opacity:1"
+         x="8.1230459"
+         y="1743.016"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.41807556px;line-height:98.00000191%;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#606060;fill-opacity:1"
          id="tspan8691">nutritional </tspan><tspan
          sodipodi:role="line"
-         x="15.158768"
-         y="1739.0096"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.16620636px;line-height:89.99999762%;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#606060;fill-opacity:1"
+         x="8.1230459"
+         y="1781.8879"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.41807556px;line-height:89.99999762%;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#606060;fill-opacity:1"
          id="tspan8693"
-         dx="1.3376049 0.37856755 0.78237271 0.12618917 0.47951883 0.17666484 -0.050475609 0.075713493 -0.30285397 -0.50475675">traditions</tspan></text>
+         dx="1.2846615 0.36358356 0.75140584 0.12119451 0.46053913 0.16967233 -0.048477747 0.072716698 -0.29086679 -0.48477811">traditions</tspan></text>
   </g>
 </svg>
