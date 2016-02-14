@@ -29,17 +29,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35218061"
-     inkscape:cx="255.48425"
+     inkscape:cx="522.39275"
      inkscape:cy="260.97973"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg2"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1070"
      inkscape:window-height="710"
-     inkscape:window-x="-6"
-     inkscape:window-y="7"
+     inkscape:window-x="93"
+     inkscape:window-y="60"
      inkscape:window-maximized="0"
      inkscape:snap-global="false"
      fit-margin-top="0"
@@ -66,7 +66,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="bg">
+     inkscape:label="bg"
+     style="display:none">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.00497341;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4201"
