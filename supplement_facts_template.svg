@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="31.737949mm"
+   height="21.837221mm"
+   viewBox="0 0 112.45729 77.37598"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="supplement_facts_template.svg"
+   inkscape:export-filename="/Users/janereynolds/Desktop/opt3_text-aligned.png"
+   inkscape:export-xdpi="248.61879"
+   inkscape:export-ydpi="248.61879">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath4218"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4220"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4388"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4390"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4420"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4422"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4678"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4680"
+         d="m 69.371,228.756 10.633,0 0,0.18 -10.633,0 0,-0.18 z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient4686"
+       spreadMethod="pad"
+       gradientTransform="matrix(10.632324,0,0,-10.632324,69.371094,228.8457)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop4688"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffffff" />
+      <stop
+         id="stop4690"
+         offset="1"
+         style="stop-opacity:1;stop-color:#231f20" />
+    </linearGradient>
+    <clipPath
+       id="clipPath4698"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4700"
+         d="m 76.352,227.479 4.033,0 0,0.181 -4.033,0 0,-0.181 z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient4706"
+       spreadMethod="pad"
+       gradientTransform="matrix(4.0332031,0,0,-4.0332031,76.352539,227.57031)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop4708"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffffff" />
+      <stop
+         id="stop4710"
+         offset="1"
+         style="stop-opacity:1;stop-color:#231f20" />
+    </linearGradient>
+    <clipPath
+       id="clipPath4718"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4720"
+         d="m 77.033,225.716 4.033,0 0,0.183 -4.033,0 0,-0.183 z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient4726"
+       spreadMethod="pad"
+       gradientTransform="matrix(4.0327148,0,0,-4.0327148,77.032715,225.80859)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop4728"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffffff" />
+      <stop
+         id="stop4730"
+         offset="1"
+         style="stop-opacity:1;stop-color:#231f20" />
+    </linearGradient>
+    <clipPath
+       id="clipPath4738"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4740"
+         d="m 71.562,210.348 4.894,0 0,0.211 -4.894,0 0,-0.211 z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient4746"
+       spreadMethod="pad"
+       gradientTransform="matrix(4.8945312,0,0,-4.8945312,71.561523,210.45312)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop4748"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffffff" />
+      <stop
+         id="stop4750"
+         offset="1"
+         style="stop-opacity:1;stop-color:#231f20" />
+    </linearGradient>
+    <clipPath
+       id="clipPath4758"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4760"
+         d="m 69.6,212.05 6.525,0 0,0.212 -6.525,0 0,-0.212 z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient4766"
+       spreadMethod="pad"
+       gradientTransform="matrix(6.5253906,0,0,-6.5253906,69.599609,212.15625)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop4768"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffffff" />
+      <stop
+         id="stop4770"
+         offset="1"
+         style="stop-opacity:1;stop-color:#231f20" />
+    </linearGradient>
+    <clipPath
+       id="clipPath4778"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4780"
+         d="m 63.392,214.375 14.335,0 0,0.216 -14.335,0 0,-0.216 z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient4786"
+       spreadMethod="pad"
+       gradientTransform="matrix(14.335449,0,0,-14.335449,63.392578,214.48242)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop4788"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffffff" />
+      <stop
+         id="stop4790"
+         offset="1"
+         style="stop-opacity:1;stop-color:#231f20" />
+    </linearGradient>
+    <clipPath
+       id="clipPath4798"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4800"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5416"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5418"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7498"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7500"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7536"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7538"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7854"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7856"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath8492"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8494"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9176"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9178"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9194"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9196"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9240"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9242"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9272"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9274"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath9910"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9912"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10594"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10596"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10612"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10614"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10658"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10660"
+         d="M 0,792 612,792 612,0 0,0 0,792 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath18170"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path18172"
+         d="M 0,360 360,360 360,0 0,0 0,360 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath18230"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path18232"
+         d="M 0,360 360,360 360,0 0,0 0,360 Z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0287183"
+     inkscape:cx="70.196116"
+     inkscape:cy="6.0222841"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1247"
+     inkscape:window-height="755"
+     inkscape:window-x="68"
+     inkscape:window-y="51"
+     inkscape:window-maximized="0"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="-6.3977447,54.744988"
+       orientation="0,1"
+       id="guide14405" />
+    <sodipodi:guide
+       position="-4.1882005,49.230513"
+       orientation="0,1"
+       id="guide14407" />
+    <sodipodi:guide
+       position="-15.895099,29.143941"
+       orientation="0,1"
+       id="guide14409" />
+    <sodipodi:guide
+       position="-60.751003,9.1805986"
+       orientation="0,1"
+       id="guide14411" />
+    <sodipodi:guide
+       position="-20.815714,61.769128"
+       orientation="0,1"
+       id="guide14421" />
+    <sodipodi:guide
+       position="-4.4260567,59.550978"
+       orientation="0,1"
+       id="guide14423" />
+    <sodipodi:guide
+       position="17.385742,50.555151"
+       orientation="0,1"
+       id="guide14425" />
+    <sodipodi:guide
+       position="1.8586988,35.814543"
+       orientation="1,0"
+       id="guide14427" />
+    <sodipodi:guide
+       position="0.13347209,-0.46227873"
+       orientation="1,0"
+       id="guide14429" />
+    <sodipodi:guide
+       position="-13.060797,41.343761"
+       orientation="0,1"
+       id="guide14431" />
+    <sodipodi:guide
+       position="110.05508,89.249531"
+       orientation="1,0"
+       id="guide14433" />
+    <sodipodi:guide
+       position="-13.80018,39.248843"
+       orientation="0,1"
+       id="guide14435" />
+    <sodipodi:guide
+       position="-15.032485,30.992399"
+       orientation="0,1"
+       id="guide14437" />
+    <sodipodi:guide
+       position="112.02676,73.722486"
+       orientation="1,0"
+       id="guide14439" />
+    <sodipodi:guide
+       position="55.094276,101.07967"
+       orientation="1,0"
+       id="guide14441" />
+    <sodipodi:guide
+       position="-61.490386,19.2855"
+       orientation="0,1"
+       id="guide14447" />
+    <sodipodi:guide
+       position="306.89284,77.632602"
+       orientation="0,1"
+       id="guide14699" />
+    <sodipodi:guide
+       position="137.65011,0.18477155"
+       orientation="0,1"
+       id="guide14701" />
+    <sodipodi:guide
+       position="120.89076,92.854115"
+       orientation="1,0"
+       id="guide7596" />
+    <sodipodi:guide
+       position="-21.563702,21.257189"
+       orientation="0,1"
+       id="guide4406" />
+    <sodipodi:guide
+       position="-20.331397,11.029057"
+       orientation="0,1"
+       id="guide4408" />
+    <sodipodi:guide
+       position="-20.94755,2.2796902"
+       orientation="0,1"
+       id="guide4410" />
+    <sodipodi:guide
+       position="182.28946,23.947119"
+       orientation="0,1"
+       id="guide6540" />
+    <sodipodi:guide
+       position="179.52827,73.101475"
+       orientation="1,0"
+       id="guide10099" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="bg"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(691.51442,-214.52652)"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Supplement Facts"
+     style="display:inline"
+     transform="translate(-8.985586,-5.5214466)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.50157577;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect13877"
+       width="111.95573"
+       height="76.874405"
+       x="9.2363586"
+       y="5.7722344" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99649334px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 9.4139905,21.375401 111.6525595,0"
+       id="path14393"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path14401"
+       d="m 9.2893923,34.114429 111.7771577,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99699998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.60398424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 9.0401958,44.041281 112.0263542,0"
+       id="path14403"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path14415"
+       d="m 9.2893923,53.979483 111.7771577,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.60331208;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.60364825;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 9.2880245,63.861564 111.9017555,0"
+       id="path14417"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path14419"
+       d="m 9.3258863,74.046393 111.7771537,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99699998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Supp. Facts text"
+     transform="translate(-8.985586,-5.5214466)">
+    <text
+       sodipodi:linespacing="100%"
+       id="text14247"
+       y="10.22283"
+       x="9.9966574"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.375px;line-height:100%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Italic Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan14249"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.375px;line-height:100%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Italic Condensed';text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start"
+         y="10.22283"
+         x="9.9966574"
+         sodipodi:role="line">† These statements have not been evaluated by the FDA and are not </tspan><tspan
+         id="tspan14251"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.375px;line-height:100%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Italic Condensed';text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start"
+         y="14.59783"
+         x="9.9966574"
+         sodipodi:role="line"
+         dx="-0.1 0 0.1 0 0 0 0 0 0 0 0 0.14 0 0.1 0 -0.14 0 0 0 0 0 -0.1"> intended<tspan
+   style="letter-spacing:0.02px"
+   id="tspan14297"> t</tspan>o <tspan
+   style="letter-spacing:0.03px"
+   id="tspan14303">diagnose</tspan>, treat, or cure any <tspan
+   style="letter-spacing:0.09px"
+   id="tspan14313">disease</tspan>. Always check with </tspan><tspan
+         id="tspan14253"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.375px;line-height:100%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Italic Condensed';text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start"
+         y="18.97283"
+         x="9.9966574"
+         sodipodi:role="line"
+         dx="0 9.3132257e-09"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:4.375px;line-height:100%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Italic Condensed';text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start"
+   id="tspan14287"
+   dx="0.5">y</tspan>our <tspan
+   style="letter-spacing:0.02px"
+   id="tspan14347">physician</tspan> before starting any new <tspan
+   style="letter-spacing:0.02px"
+   id="tspan14353">dietary</tspan> supplement program.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="26.094801"
+       y="30.473177"
+       id="text14257"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14259"
+         x="26.094801"
+         y="30.473177"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Supplement Facts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.25px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:-0.05px;word-spacing:-0.5px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.645699"
+       y="41.603893"
+       id="text14359"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14361"
+         x="10.645699"
+         y="41.603893"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.25px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:-0.05px;word-spacing:-0.5px;writing-mode:lr-tb;text-anchor:start">Serving size 1 gel cap</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.25px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:-0.05px;word-spacing:-0.5px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="61.792606"
+       y="41.557297"
+       id="text14363"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14367"
+         x="61.792606"
+         y="41.557297"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.25px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;word-spacing:-0.5px;writing-mode:lr-tb;text-anchor:start">Servings Per Container 30</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.25px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="74.971901"
+       y="51.916054"
+       id="text14369"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14373"
+         x="74.971901"
+         y="51.916054"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.25px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:-0.05px;word-spacing:-0.30000001px;writing-mode:lr-tb;text-anchor:start">Amount Per Serving</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.25px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.97928"
+       y="61.662495"
+       id="text14375"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14377"
+         x="10.97928"
+         y="61.662495"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.25px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:-0.05px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start">Avocado Oil</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.25px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="102.28918"
+       y="61.652763"
+       id="text14379"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14381"
+         x="102.28918"
+         y="61.652763"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.25px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start">250 mg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.25px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.702917"
+       y="71.801369"
+       id="text14383"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14385"
+         x="10.702917"
+         y="71.801369"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.25px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start">CBD (cannabidiol)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.25px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="108.02734"
+       y="71.854446"
+       id="text14387"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14391"
+         x="108.02734"
+         y="71.854446"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.25px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start">5 mg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.717868"
+       y="81.287506"
+       id="text14443"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14445"
+         x="10.717868"
+         y="81.287506"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow, Condensed';text-align:start;word-spacing:-0.30000001px;writing-mode:lr-tb;text-anchor:start" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Suggested Use"
+     transform="translate(-8.985586,-5.5214466)" />
+</svg>
